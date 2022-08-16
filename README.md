@@ -1,4 +1,6 @@
 ### Hi there 👋
+I reached 94 accuracy score on titanik competetion with descision tree algorithm!
+
 
 <!--
 **AlirezaQasri/AlirezaQasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
